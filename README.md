@@ -10,4 +10,4 @@ after your terminal clones the repository you will then need to `cd` into the di
 ```
 cd agency---landing-page
 ```
-then you can run `open ./index.html`
+then you can run the project by double clicking on any one of the `.html` files you wish to view.
